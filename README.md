@@ -1,8 +1,8 @@
 # Amigo-auto
 Free soft to join waitlist in amigo
-![image](https://github.com/user-attachments/assets/941340c8-bb92-4ae0-a5dd-9c3b6ea54f14)
 
-софт регистрируется в вейт листе по почте и твиттеру, для твиттеров нужны только токены, для почты, нужно, чтобы на ней был включен IMAP, либо чтобы письма пересылались на почту с аймапом
+*Registration by mail and twitter, for tweets you need only tokens, for mail, you need to have IMAP enabled on it, or to forward the letters to the mail where it is enabled*
+![image](https://github.com/user-attachments/assets/941340c8-bb92-4ae0-a5dd-9c3b6ea54f14)
 
 **Для запуска:**
 
